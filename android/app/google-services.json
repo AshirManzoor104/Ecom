@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "249554697222",
+    "project_id": "sinbadapp-a5901",
+    "storage_bucket": "sinbadapp-a5901.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249554697222:android:3dbfab4d80183fabea5787",
+        "android_client_info": {
+          "package_name": "com.sinbad.e_com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249554697222-qfdhosdmppaa9dljm0r44sqrqf9rvdn4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sinbad.e_com",
+            "certificate_hash": "d046e3ae0f45863cdc08471ad51b56608e5689cf"
+          }
+        },
+        {
+          "client_id": "249554697222-s5p74vo37k5spnbm9ctejnpqhot791gm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCve3QsUfbsc6YTJu6rw7mvmVye08MYw_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249554697222-s5p74vo37k5spnbm9ctejnpqhot791gm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
